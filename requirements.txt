@@ -1,3 +1,4 @@
 Flask==2.0.2
 python-docx==0.8.11
 crossrefapi==1.0.5
+gunicorn
